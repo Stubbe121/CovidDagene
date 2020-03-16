@@ -1,0 +1,10 @@
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\bin\Debug\Lommeregner-Projekt.exe.config
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\bin\Debug\Lommeregner-Projekt.exe
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\bin\Debug\Lommeregner-Projekt.pdb
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner-Projekt.csprojAssemblyReference.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner_Projekt.Form1.resources
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner_Projekt.Properties.Resources.resources
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner-Projekt.csproj.GenerateResource.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner-Projekt.csproj.CoreCompileInputs.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner-Projekt.exe
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Lommeregner-Projekt\Lommeregner-Projekt\obj\Debug\Lommeregner-Projekt.pdb
