@@ -175,6 +175,7 @@
             this.ButtonPlus.TabIndex = 13;
             this.ButtonPlus.Text = "+";
             this.ButtonPlus.UseVisualStyleBackColor = true;
+            this.ButtonPlus.Click += new System.EventHandler(this.ButtonPlus_Click);
             // 
             // ButtonMinus
             // 
@@ -232,6 +233,7 @@
             this.ButtonCancelE.TabIndex = 21;
             this.ButtonCancelE.Text = "CE";
             this.ButtonCancelE.UseVisualStyleBackColor = true;
+            this.ButtonCancelE.Click += new System.EventHandler(this.ButtonCancelE_Click);
             // 
             // Form1
             // 
