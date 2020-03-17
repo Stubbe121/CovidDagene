@@ -95,7 +95,7 @@ namespace Lommeregner_Projekt
 
         private void Button0_Click(object sender, EventArgs e)
         {
-            if (Result.Text == "0")
+            if (Result.Text == "0")||(operation_pressed)
                 Result.Clear();
             Button b = (Button)sender;
             Result.Text = Result.Text + b.Text;
@@ -103,7 +103,7 @@ namespace Lommeregner_Projekt
 
         private void ButtonDot_Click(object sender, EventArgs e)
         {
-            if (Result.Text == "0")
+            if (Result.Text == "0")||
                 Result.Clear();
             Button b = (Button)sender;
             Result.Text = Result.Text + b.Text;
@@ -120,6 +120,53 @@ namespace Lommeregner_Projekt
             operation = b.Text;
             value = Double.Parse(Result.Text);
             operation_pressed = true; 
+        }
+
+        private void ButtonMinus_Click(object sender, EventArgs e)
+        {
+            Button b = (Button)sender;
+            operation = b.Text;
+            value = Double.Parse(Result.Text);
+            operation_pressed = true;
+        }
+
+        private void ButtonMultiplyer_Click(object sender, EventArgs e)
+        {
+            Button b = (Button)sender;
+            operation = b.Text;
+            value = Double.Parse(Result.Text);
+            operation_pressed = true;
+        }
+
+        private void ButtonDivide_Click(object sender, EventArgs e)
+        {
+            Button b = (Button)sender;
+            operation = b.Text;
+            value = Double.Parse(Result.Text);
+            operation_pressed = true;
+        }
+
+        private void ButtonEqual_Click(object sender, EventArgs e)
+        {
+            switch (operation)
+            {
+                case "+":
+                    Result.Text = (value + double.Parse(Result.Text)).ToString();
+                    break;
+                case "-":
+                    Result.Text = (value - double.Parse(Result.Text)).ToString();
+                    break;
+                case "x":
+                    Result.Text = (value * double.Parse(Result.Text)).ToString();
+                    break; 
+                case "/":
+                    Result.Text = (value / double.Parse(Result.Text)).ToString();
+                    break;
+                default:
+                    break;
+            }
+            operation_pressed = false; 
+
         }
     }
 }

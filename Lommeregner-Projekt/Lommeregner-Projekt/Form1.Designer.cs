@@ -147,6 +147,7 @@
             this.ButtonDivide.TabIndex = 9;
             this.ButtonDivide.Text = "/";
             this.ButtonDivide.UseVisualStyleBackColor = true;
+            this.ButtonDivide.Click += new System.EventHandler(this.ButtonDivide_Click);
             // 
             // ButtonMultiplyer
             // 
@@ -156,6 +157,7 @@
             this.ButtonMultiplyer.TabIndex = 11;
             this.ButtonMultiplyer.Text = "*";
             this.ButtonMultiplyer.UseVisualStyleBackColor = true;
+            this.ButtonMultiplyer.Click += new System.EventHandler(this.ButtonMultiplyer_Click);
             // 
             // ButtonDot
             // 
@@ -185,6 +187,7 @@
             this.ButtonMinus.TabIndex = 14;
             this.ButtonMinus.Text = "-";
             this.ButtonMinus.UseVisualStyleBackColor = true;
+            this.ButtonMinus.Click += new System.EventHandler(this.ButtonMinus_Click);
             // 
             // Button0
             // 
@@ -224,6 +227,7 @@
             this.ButtonEqual.TabIndex = 20;
             this.ButtonEqual.Text = "=";
             this.ButtonEqual.UseVisualStyleBackColor = true;
+            this.ButtonEqual.Click += new System.EventHandler(this.ButtonEqual_Click);
             // 
             // ButtonCancelE
             // 
