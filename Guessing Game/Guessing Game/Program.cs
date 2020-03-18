@@ -10,22 +10,42 @@ namespace Guessing_Game
             bool run = false;
             Random n = new Random();
             int number = n.Next(1,10);
+            int guessCount = 0;
+            int guessLimit = 3;
+            bool OutOfGuesses = false;
 
-            while (!run)
+            while (!run && !OutOfGuesses)
             {
                 try
                 {
                     Console.WriteLine("Guess the number: ");
                     guess = Convert.ToInt32(Console.ReadLine());
-
-                    if (guess == number)
+                    if (guessCount < guessLimit)
                     {
-                        Console.WriteLine("Congrats you guessed it!!!");
+                        if (guess == number)
+                        {
+                            Console.WriteLine("Congrats you guessed it!!!");
+                            run = true;
+                        }
+                        else if (guess > number)
+                        {
+                            Console.WriteLine("Number chosen is too high");
+                            guessCount++;
+                        }
+                        else if (guess < number)
+                        {
+                            Console.WriteLine("Number chosen is too low");
+                            guessCount++;
+                        }
                     }
-                    else if (guess != number)
+                    else
                     {
-                        Console.WriteLine("Wrong number try again");
+                        OutOfGuesses = true;
                     }
+                }
+                catch(FormatException fEx)
+                {
+                    Console.WriteLine("Wrong input");
                 }
             }
         }
