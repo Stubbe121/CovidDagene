@@ -14,6 +14,7 @@ namespace Guessing_Game
             int guessLimit = 3;
             bool OutOfGuesses = false;
 
+            Console.WriteLine("Guess number between 1-10, you have 3 guesses... good luck and have fun^^");
             while (!run && !OutOfGuesses)
             {
                 try
