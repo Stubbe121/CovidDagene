@@ -3,5 +3,29 @@
 }
 
 nav {
-
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid;
+    border-color: black;
 }
+
+.navig {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.navi {
+    margin-right: 33px;
+    margin-left: 6px;
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}
+
+    .navi:hover {
+        color: lightgray;
+        transition: 0.2s;
+    }

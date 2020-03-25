@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Code\HtmlPage1.html" />
+    <Content Include="Code\HtmlPage2.html" />
     <Content Include="Code\Index.html" />
     <Content Include="StyleSheet\StyleSheet1.css" />
     <Content Include="Web.config" />
