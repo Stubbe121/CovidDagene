@@ -1,0 +1,10 @@
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\bin\Debug\Pizzaria Uge 14 projekt.exe.config
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\bin\Debug\Pizzaria Uge 14 projekt.exe
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\bin\Debug\Pizzaria Uge 14 projekt.pdb
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria Uge 14 projekt.csprojAssemblyReference.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria_Uge_14_projekt.Form1.resources
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria_Uge_14_projekt.Properties.Resources.resources
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria Uge 14 projekt.csproj.GenerateResource.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria Uge 14 projekt.csproj.CoreCompileInputs.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria Uge 14 projekt.exe
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\CovidDagene\Pizzaria Uge 14 projekt\Pizzaria Uge 14 projekt\obj\Debug\Pizzaria Uge 14 projekt.pdb
