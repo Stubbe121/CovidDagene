@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Pizzaria_Uge_14_projekt
 {
-    public partial class Form1 : Form
+    public partial class Byg_Selv_Pizza : Form
     {
-        public Form1()
+        public Byg_Selv_Pizza()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
