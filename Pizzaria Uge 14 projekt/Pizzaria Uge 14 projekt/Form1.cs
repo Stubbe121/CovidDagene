@@ -16,10 +16,5 @@ namespace Pizzaria_Uge_14_projekt
         {
             InitializeComponent();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
